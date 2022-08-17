@@ -3,7 +3,7 @@
 ## description
 semantic tags has been used instead div
 
-##screenshot
+## screenshot
 ![This is the screenshot of the challenge 1](challenge-1-SS.PNG)
 
 ## public website
