@@ -2,7 +2,9 @@
 
 ## description
 semantic tags has been used instead div
-![test](/assets/images/online-reputation-management.jpg)
+
+##screenshot
+![This is the screenshot of the challenge 1](challenge-1-SS.PNG)
 
 ## public website
-[address to the website]
+[address to the website](https://ravindermor.github.io/challenge-1/)
